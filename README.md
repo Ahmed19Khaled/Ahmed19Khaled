@@ -1,33 +1,41 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gresha</h1>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F0FF&background=0F0F0F00&width=800&lines=Full+Stack+.NET+Developer;API+Specialist;Frontend+&+Backend;Team+Player;Mentor" alt="Typing SVG"/>
-</div>
-
-
+</p>
 
 ---
 
 ### 👨‍💻 About Me
-💡 I am a passionate **Full Stack ASP.NET Developer** building modern web apps using **ASP.NET Core**, **Entity Framework**, **SQL**, and **React/JS**.  
+<p align="center">
+💡 Passionate **Full Stack ASP.NET Developer** building modern web applications using **ASP.NET Core**, **Entity Framework**, **SQL**, and **React/JS**.
+</p>
 
-- 🔭 Currently working on **EDRAK Platform**
-- 🌱 Learning **Microservices, Docker, Azure DevOps**
-- 💬 Ask me about **API Design, Clean Architecture, Full Stack Development**
+<p align="center">
+- 🔭 Currently working on <b>EDRAK Platform</b><br>
+- 🌱 Learning <b>Microservices, Docker, Azure DevOps</b><br>
+- 💬 Ask me about <b>API Design, Clean Architecture, Full Stack Development</b>
+</p>
 
 ---
 
-
-<div align="center">
+### 🧰 Tech Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,js,ts,react,git,github,azure,vscode,visualstudio,postgres,mysql,docker,postman,figma" />
-</div>
+</p>
 
-<div align="center">
+---
+
+### 📊 GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedGresha&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGresha&theme=tokyonight" height="180em"/>
-</div>
+</p>
 
-<div align="center">
+---
+
+### 🌍 Connect With Me
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-gresha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -37,22 +45,29 @@
   <a href="https://github.com/AhmedGresha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
-
+</p>
 
 ---
 
 ### 🌟 Featured Projects
-#### 🧩 [EDRAK Platform](https://github.com/AhmedGresha/EDRAK)
-> Full educational platform with **ASP.NET Core + MVC + API** using Clean Architecture & JWT Authentication
+<p align="center">
+#### 🧩 <a href="https://github.com/AhmedGresha/EDRAK">EDRAK Platform</a><br>
+Full educational platform with **ASP.NET Core + MVC + API** using Clean Architecture & JWT Authentication
+</p>
 
-#### 🧮 [Trak ERP System](https://github.com/AhmedGresha/TRAK)
-> ERP web app managing company resources, modular backend & SQL Server
+<p align="center">
+#### 🧮 <a href="https://github.com/AhmedGresha/TRAK">Trak ERP System</a><br>
+ERP web app managing company resources, modular backend & SQL Server
+</p>
 
-#### 🌐 [Portfolio Website](https://github.com/AhmedGresha/Portfolio)
-> Personal portfolio using React frontend consuming ASP.NET Core API
+<p align="center">
+#### 🌐 <a href="https://github.com/AhmedGresha/Portfolio">Portfolio Website</a><br>
+Personal portfolio using React frontend consuming ASP.NET Core API
+</p>
 
 ---
 
 ### 💡 Quote
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+<p align="center">
+*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+</p>
