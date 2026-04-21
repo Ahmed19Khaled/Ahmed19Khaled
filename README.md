@@ -53,9 +53,9 @@
 
 ### 🌟 Featured Projects
 #### 🧩 [EDRAK Platform](https://github.com/Ahmed19Khaled/EDEAK_SOLUTION) > Full educational platform with **ASP.NET Core + MVC ** using Clean Architecture & Identity Authentication 
-#### 🧮 [E_Commorcer_MVC](https://github.com/Ahmed19Khaled/SAKERSTORE_Ecommerce_MVC) > ERP web app managing company resources, modular backend & SQL Server & Identity Authentication 
-#### 🌐 [Portfolio](https://a-k-portfolio.runasp.net/)) > Personal portfolio using React frontend consuming ASP.NET Core API
-#### 🧩 [E_Learn_API](https://github.com/Ahmed19Khaled/E_learnTeacherAPI) > Full educational platform with **ASP.NET Core + API** using Clean Architecture & JWT Authentication 
+#### 🧮 [E_Commorcer_MVC](https://sakerstor.runasp.net/) > ERP web app managing company resources, modular backend & SQL Server & Identity Authentication 
+#### 🌐 [Portfolio](https://a-k-portfolio.runasp.net/)) > Personal portfolio using React frontend consuming ASP.NET Core MVC
+#### 🧩 [E_Learn_API](https://elearningaldiwan.runasp.net/swagger/index.html) > Full educational platform with **ASP.NET Core + API** using Clean Architecture & JWT Authentication 
 ---
 
 ### 💡 Quote
